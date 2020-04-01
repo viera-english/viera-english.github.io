@@ -1,6 +1,6 @@
 ---
 title: Lección 2 - Preposiciones
-date: 2020-03-31 19:57:00 -0600
+date: 2020-03-31 21:15:00 -0600
 categories: [Preposiciones, IN_ON_AT]
 tags: [preposiciones]
 ---
