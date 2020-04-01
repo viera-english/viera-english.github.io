@@ -35,11 +35,11 @@ En el idioma ingles para indicar que una oración que involucra el verbo **To Be
 Hello! my name is Tania, I am in my house today. My father and my mother are in the livingroom on the sofa. My brother is in **his** bedroom, and my grandmother is in the garden with **her** best friend Lucero.
 
 ```
-Afirmativa: My brother is in his bedroom
+Afirmativo: My brother is in his bedroom
 Pregunta: Is my brother in his bedroom?
 Respuesta: Yes, he is
 
-Afirmativa: They are on the sofa
+Afirmativo: They are on the sofa
 Pregunta: Are they on the table?
 Respuesta: No, They are on the sofa
 ```
