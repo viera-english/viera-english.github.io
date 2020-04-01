@@ -1,8 +1,8 @@
 ---
 title: Lección 1 - Pronombres personales y verbo TO BE
 date: 2020-03-31 19:57:00 -0600
-categories: [Presente, Afirmativo]
-tags: [principiante]
+categories: [Principiante, Pronombres]
+tags: [to_be]
 ---
 
 ## Pronombres personales

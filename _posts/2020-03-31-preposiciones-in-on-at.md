@@ -1,8 +1,8 @@
 ---
 title: Lección 2 - Preposiciones
 date: 2020-03-31 21:15:00 -0600
-categories: [Preposiciones, IN_ON_AT]
-tags: [preposiciones]
+categories: [Principiante, Preposiciones]
+tags: [in_on_at]
 ---
 
 ## Preposiciones IN - ON - AT
