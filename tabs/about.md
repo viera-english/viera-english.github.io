@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+> **Note**: El proposito de `Viera English` es servir como referencia sobre temas relacionados al aprendizaje del idioma ingles.
