@@ -8,6 +8,7 @@ tags: [reglas]
 ## El presente progresivo o continuo
 
 El presente progresivo sirve para describir una acción que se esta realizando actualmente de manera continua. Existen ciertas reglas que se deben aplicar según el **verbo** a utilizar en la oración.
+> **Nota**: Las oraciones en presente progresivo necesariamente van acompañadas del verbo **To Be**
 
 ## Agregar ING
 
