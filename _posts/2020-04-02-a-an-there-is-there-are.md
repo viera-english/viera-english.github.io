@@ -37,6 +37,7 @@ Aplica para indicar **Hay** en singular.
 > **Nota:** **There is** tiene su forma corta, la cual seria: **There's**
 
 ### Ejemplos
+
 |Afirmativa|Negativa|Pregunta|Respuesta afirmativa|Respuesta negativa| 
 |:---|:--|:--|:--|---:|
 |There's a dog | There's not a dog | Is there a dog? | Yes, there's | No, there isn't 
@@ -48,6 +49,7 @@ Aplica para indicar **Hay** en plural.
 
 
 ### Ejemplos
+
 |Afirmativa|Negativa|Pregunta|Respuesta afirmativa|Respuesta negativa| 
 |:---|:--|:--|:--|---:|
 |There are 2 dogs | There aren't 2 dogs  | Are there 2 dogs?  | Yes, there are | No, there aren't 
@@ -64,6 +66,7 @@ No, there aren't 4 bathrooms in my house.
 ```
 
 ### Ejemplos
+
 Company|Contact|Country|
 |:---|:--|---:|
 |Alfreds Futterkiste | Maria Anders | Germany
