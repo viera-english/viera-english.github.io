@@ -22,6 +22,8 @@ Es importante conocer la forma corta del verbo **To Be** para afirmar como para 
 
 ## Ejemplo
 
-* The car isn't in the garage.
-* He's not in the house.
-* They´re running in the park.
+```
+The car isn't in the garage.
+He's not in the house.
+They´re running in the park.
+```
