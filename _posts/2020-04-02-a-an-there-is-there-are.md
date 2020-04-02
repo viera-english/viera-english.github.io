@@ -64,11 +64,3 @@ In the park there are 3 cats and there's a dog.
 Are there 4 bathrooms in your house?
 No, there aren't 4 bathrooms in my house.
 ```
-
-### Ejemplos
-
-Company|Contact|Country|
-|:---|:--|---:|
-|Alfreds Futterkiste | Maria Anders | Germany
-|Island Trading | Helen Bennett | UK
-|Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy
