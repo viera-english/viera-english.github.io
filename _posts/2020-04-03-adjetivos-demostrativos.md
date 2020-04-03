@@ -8,6 +8,7 @@ tags: [adjetivos]
 Los adjetivos demostrativos sirven para indicar si algo esta cerca (near) o lejos (far) y estos se pueden aplicar en oraciones en singular (is) como en plural (are).
 
 ## Tabla demostrativa
+
 |-|IS|ARE|
 |:---|:--|---:|
 |NEAR | This (este, esta, esto) | These (estas, estos)
