@@ -5,7 +5,7 @@ categories: [Principiante, How_much]
 tags: [how_much]
 ---
 
-Vimos en la [http://127.0.0.1:4000](lección pasada) el uso de **How Many** para preguntar en plural **¿Cuántas?** o **¿Cuántos?**, en esta ocasión veremos como realizar esta pregunta de forma singular **¿Cuánto?** o **¿Cuánta?** usando `How much` con el verbo **To Be**.
+Vimos en la [lección pasada](https://viera-english.github.io/posts/how-many) el uso de **How Many** para preguntar en plural **¿Cuántas?** o **¿Cuántos?**, en esta ocasión veremos como realizar esta pregunta de forma singular **¿Cuánto?** o **¿Cuánta?** usando `How much` con el verbo **To Be**.
 
 
 ## Ejemplos
