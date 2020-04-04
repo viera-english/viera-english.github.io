@@ -1,7 +1,7 @@
 ---
 title: Lección 14 - Simple present tense
 date: 2020-04-03 17:14:00 -0600
-categories: [Principiante, How_much]
+categories: [Principiante, Presente_simple]
 tags: [reglas]
 ---
 
@@ -12,14 +12,14 @@ Existen ciertas reglas para los verbos que aplican para las terceras personas en
 Esta regla aplica para aquellos verbos que terminan en **o, x, z, s, ss, sh, ch**, por ejemplo:
 
   ```html
-Go -> Go**es**
-Watch -> Watch**es**
+Go -> Goes
+Watch -> Watches
 ```
 
 
 ## Eliminar `Y` agregar `ies`
 
-Esta regla aplica para aquellos verbos que terminan en **consonante + ´Y´**, por ejemplo:
+Esta regla aplica para aquellos verbos que terminan en **consonante + Y**, por ejemplo:
 
   ```html
 try -> tries
