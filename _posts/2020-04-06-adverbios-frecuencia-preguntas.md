@@ -14,7 +14,7 @@ En esta lección vamos a incluir una **HW Questions** mas, `How often` que signi
 
 `-` You don't eat pizza on Saturdays - Tu no comes pizza los sabados
 
-`?` Do you always eat pizza on Saturdays? ¿Tu siempre comes pizza los sabados?
+`?` Do you always eat pizza on Saturdays? - ¿Tu siempre comes pizza los sabados?
 
 ***
 
