@@ -7,6 +7,7 @@ tags: [practice]
 
 Vamos a realizar un ejercicio usando lo que se ha visto hasta el momento, desarrollaremos una mini-historia en presente simple sobre una rutina diaria.
 
+
 ## Practice
 
 ```html
