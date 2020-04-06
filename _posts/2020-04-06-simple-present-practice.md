@@ -11,7 +11,7 @@ Vamos a realizar un ejercicio usando lo que se ha visto hasta el momento, desarr
 ## Practice
 
 ```html
-This is my friend Wendy. Every day, se wakes up at 5:00 am, when the alarm rings.
+This is my friend Wendy. Every day, she wakes up at 5:00 am, when the alarm rings.
 
 She gets up 5 minutes later and takes a shower. Every day. she gets dressed in her bedroom and then she goes to the kitchen.
 
