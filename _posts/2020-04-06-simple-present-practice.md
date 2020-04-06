@@ -1,5 +1,5 @@
 ---
-title: Simple Present - Practice
+title: Lección 17 Simple Present - Practice
 date: 2020-04-06 11:45:00 -0600
 categories: [Principiante, Presente_simple]
 tags: [practice]
