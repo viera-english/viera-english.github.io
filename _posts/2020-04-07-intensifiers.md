@@ -17,6 +17,7 @@ Existen formas de intensificar una oración usando `Adverbios intensificadores`,
 ## Ejemplo
 
 How well do they sing? - ¿Que tan bien cantan ellas?
+
 They sing **pretty** beautiful - Ellas cantan **bastante** hermoso.
 
 
