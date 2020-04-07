@@ -1,6 +1,6 @@
 ---
-title: Lección 21 - Adjetivos VS Adverbios
-date: 2020-04-07 13:40:00 -0600
+title: Lección 19 - Adjetivos VS Adverbios
+date: 2020-04-07 14:57:00 -0600
 categories: [Basic, Vs]
 tags: [reglas]
 ---
